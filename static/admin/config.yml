@@ -20,4 +20,17 @@ collections:
       - {label: "Tags", name: "tags", default: "post"}
       - {label: "Summary", name: "summary", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-
+  - name: "post"
+      label: "Page"
+      folder: "/content"
+      create: true
+      fields:
+        - {label: "Title", name: "title", widget: "string", required: true}
+        - {label: "Subtitle", name: "subtitle", widget: "string"}
+        - {label: "Date", name: "Date", widget: "datetime"}
+        - {label: "Lastmod", name: "lastmod", widget: "datetime", required: false}
+        - {label: "Draft", name: "draft", widget: "boolean", default: true}
+        - {label: "Authors", name: "authors", widget: "string", default: "Matthew", required: false}
+        - {label: "Tags", name: "tags", default: "post"}
+        - {label: "Summary", name: "summary", widget: "string"}
+        - {label: "Body", name: "body", widget: "markdown"}
