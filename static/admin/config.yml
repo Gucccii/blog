@@ -20,8 +20,8 @@ collections:
       - {label: "Tags", name: "tags", default: "post"}
       - {label: "Summary", name: "summary", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "post"
-      label: "Page"
+  - name: "page"
+      label: "Blog"
       folder: "/content"
       create: true
       fields:
