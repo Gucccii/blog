@@ -17,7 +17,7 @@ collections:
       - {label: "Lastmod", name: "lastmod", widget: "datetime", required: false}
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
       - {label: "Type", name: "type", widget: "string", default: post}
-      - {label: "Authors", name: "authors", widget: "string", default: "Matthew", required: false}
-      - {label: "Tags", name: "tags", default: "post"}
+      - {label: "Authors", name: "authors", widget: "string", default: ["Matthew"], required: false}
+      - {label: "Tags", name: "tags", default: ["mechanicalkeyboards"]}
       - {label: "Summary", name: "summary", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
