@@ -16,7 +16,7 @@ collections:
       - {label: "Date", name: "Date", widget: "datetime"}
       - {label: "Lastmod", name: "lastmod", widget: "datetime", required: false}
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
-      - {label: "Type", name: "type", widget: "boolean", default: "true"}
+      - {label: "Type", name: "type", widget: "string", default: "true"}
       - {label: "Authors", name: "authors", widget: "string", default: "Matthew", required: false}
       - {label: "Tags", name: "tags", default: "post"}
       - {label: "Summary", name: "summary", widget: "string"}
