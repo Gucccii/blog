@@ -1,11 +1,10 @@
 +++
-title = "Mech Links"
-subtitle = "A mechanical keyboards guide for beginners, experienced users, and everyone inbetween."
-
+title = "Mechanical Keyboards Vendors"
+subtitle = "Vendors list for mechanical keyboards"
 date = 2016-04-20T00:00:00
 lastmod = 2018-01-13T00:00:00
 draft = false
-
+type = "post"
 authors = ["Matthew"]
 
 tags = ["Mechanical Keyboards","Guides"]
@@ -33,4 +32,8 @@ summary = "Create a beautifully simple website or blog in under 10 minutes."
   preview_only = false
 +++
 
-# This is a test post for files
+## Vendors List
+
+pimp
+
+konk

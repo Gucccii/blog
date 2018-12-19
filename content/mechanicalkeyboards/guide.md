@@ -1,13 +1,11 @@
 +++
 title = "Mechanical Keyboards Guide"
 subtitle = "A mechanical keyboards guide for beginners, experienced users, and everyone inbetween."
-
 date = 2016-04-20T00:00:00
 lastmod = 2018-01-13T00:00:00
 draft = false
-
 authors = ["Matthew"]
-
+type = "post"
 tags = ["Mechanical Keyboards","Guides"]
 summary = "Create a beautifully simple website or blog in under 10 minutes."
 
@@ -31,6 +29,8 @@ summary = "Create a beautifully simple website or blog in under 10 minutes."
 
   # Show image only in page previews?
   preview_only = false
+
+url_custom = [{name = "Mech", url = "https://mattsblog.netlify.com/mechanicalkeyboardss/"}]
 +++
 
 ## Introduction Q&A
