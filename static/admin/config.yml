@@ -13,7 +13,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string", required: true}
       - {label: "Subtitle", name: "subtitle", widget: "string"}
-      - {label: "Summary", name: "summary", widget: "string"}
+      - {label: "Summary", name: "summary", widget: "string", required: false}
       - {label: "Authors", name: "authors", widget: "string", default: ["Matthew"], required: false}
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Lastmod", name: "lastmod", widget: "datetime", required: false}
