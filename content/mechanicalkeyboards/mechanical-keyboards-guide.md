@@ -9,7 +9,7 @@ draft: false
 type: post
 authors:
   - Matthew
-tags: 'List [ "mechanicalkeyboards", "guides ]'
+tags: 'List [ "mechanicalkeyboards", "guides" ]'
 summary: >-
   Mechanical Keyboards guide that goes through the history and process of
   chosing the right mechanical keyboard.
