@@ -3,15 +3,16 @@ title: Mechanical Keyboards Guide
 subtitle: >-
   A mechanical keyboards guide for beginners, experienced users, and everyone  
   inbetween
+summary: Keyboard summary
+authors:
+  - Matthew
 date: 2018-12-20T00:26:38.369Z
 lastmod: 2018-12-20T00:26:38.419Z
 draft: false
 type: post
-authors:
-  - Matthew
+slug: guide
 tags:
   - mechanicalkeyboards
-summary: Keyboard summary
 ---
 ## Introduction Q&A
 
