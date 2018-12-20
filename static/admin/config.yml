@@ -7,17 +7,19 @@ public_folder: "/img/uploads"
 
 collections:
   - name: "mechanicalkeyboards"
-    label: "Mechanicalkeyboards"
+    label: "Mechanicalkeyboards post"
     folder: "content/mechanicalkeyboards/"
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string", required: true}
       - {label: "Subtitle", name: "subtitle", widget: "string"}
+      - {label: "Summary", name: "summary", widget: "string"}
+      - {label: "Authors", name: "authors", widget: "string", default: ["Matthew"], required: false}
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Lastmod", name: "lastmod", widget: "datetime", required: false}
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
       - {label: "Type", name: "type", widget: "string", default: post}
-      - {label: "Authors", name: "authors", widget: "string", default: ["Matthew"], required: false}
+      - {label: "Slug", name: "slug", widget: "string", required: false}
       - {label: "Tags", name: "tags", widget: "string", default: ["mechanicalkeyboards"]}
       - {label: "Summary", name: "summary", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
