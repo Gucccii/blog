@@ -4,7 +4,7 @@ widget = "hero"
 active = true
 date = 2017-10-15T00:00:00
 
-title = "Matt's Blog"
+title = "Keyboard Wiki"
 
 # Order that this section will appear in.
 weight = 3
@@ -22,4 +22,4 @@ weight = 3
 #  label = '<i class="fas fa-download"></i> Install Now'
 +++
 
-My blog for all things tech & {dev} related
+A keyboard wiki dedicated to bringing factual content and information on both new and vintage keyboards.
