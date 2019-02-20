@@ -55,7 +55,6 @@ enableGitInfo = false
 
 #[permalinks]
 #	post = ":section/:slug"
-	tutorial = "wiki/:title"
 
 [params]
   # AUTHOR SETUP
@@ -311,7 +310,7 @@ enableGitInfo = false
 
 [[menu.main]]
 	name = "Wiki"
-	url = "/tutorial/"
+	url = "/wiki/"
 	weight = 2
 
 [[menu.main]]
@@ -329,6 +328,12 @@ enableGitInfo = false
 	name = "Mechanical Keyboards"
 	url =  "/tags/mechanical-keyboards"
 	weight = 1
+
+#Documentation
+
+[[docs]]
+	name = "Overview"
+	url = "/docs/"
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
