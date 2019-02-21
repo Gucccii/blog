@@ -1,5 +1,5 @@
 +++
-title = "Example Page"
+title = "IBM Model F"
 
 date = 2018-09-09T00:00:00
 # lastmod = 2018-09-09T00:00:00
@@ -9,9 +9,8 @@ toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-linktitle = "Example Page"
-[menu.tutorial]
-  parent = "Example Topic"
+[menu.wiki]
+  parent = "ibm"
   weight = 1
 +++
 
