@@ -331,7 +331,7 @@ enableGitInfo = false
 
 #Documentation
 
-[[docs]]
+[[menu.wiki]]
 	name = "Overview"
 	url = "/wiki/"
 	weight = 1
